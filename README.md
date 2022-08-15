@@ -1,8 +1,8 @@
 <div align="center"> 
 
 ## 🧑🏻‍💻 Minwook kim
-______________
 
+<br>
 
  __🙋🏻‍♂️ About Me__
  
@@ -36,13 +36,24 @@ __🌎 Project__
 
 ##### __🏄🏻‍♂️ Photo Surfer(포토서퍼)__ - 저장한 사진을 태그와 알림으로 빠르게 찾을 수 있는 App (30th SOPT APPJAM)
 
+<br><br>
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
 
-<a href="mailto:coreminw@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:coreminw@gmail.com"/></a>
-<a href="https://www.instagram.com/m_in02"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/m_in02"/></a>
 
-<a href="https://velog.io/@coreminw"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@coreminw"/></a>
+<div align="center"> 
+<a href="https://velog.io/@coreminw/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@coreminw/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> <a href="https://instagram.com/m_in02">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/m_in02/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> <a href="mailto:coreminw@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coreminw@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ </div>
 
-
-__Contact: coreminw@naver.com__
