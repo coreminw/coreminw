@@ -37,7 +37,7 @@ __🌎 Project__
 ##### __🏄🏻‍♂️ Photo Surfer(포토서퍼)__ - 저장한 사진을 태그와 알림으로 빠르게 찾을 수 있는 App (30th SOPT APPJAM)
 
 <br><br>
-<h3 align="center"><b>💌 Social 💌 </b></h3>
+<h3 align="center"><b>📮 Social </b></h3>
 </br>
 
 
