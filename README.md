@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=400&section=header&text=Welcome&desc=Minwook's%20Github%20Profile&fontSize=70&animation=fadeIn)
 
 <!--
 **coreminw/coreminw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
