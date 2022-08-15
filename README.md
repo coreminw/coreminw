@@ -1,16 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=400&section=header&text=Welcome&desc=Minwook's%20Github%20Profile&fontSize=70&animation=fadeIn)
+<div align="center"> 
 
-<!--
-**coreminw/coreminw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑🏻‍💻 Minwook kim
+______________
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ __🙋🏻‍♂️ About Me__
+ 
+##### SangMyung university (2016.02 ~)
+
+##### SOPT Server part 30th (2022.03 ~ 2022.07)
+
+<br>
+
+ __🛠 Skills And Learning__
+ 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<br>
+<img src="https://img.shields.io/badge/Spring%20boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<br><br><br>
+</div>
+
+__🌎 Project__
+
+##### __🏕 Camping Is Now(YIN)__ -  쉽고 간편하게 캠핑을 즐길 수 있는 캠핑장 예약 관리 프로그램을 간편한 모바일 App (상명대학교 소프트웨어공학 팀 프로젝트)
+
+##### __🎶 Symphony(심포니)__ - 악보 형태로 일상을 기록할 수 있는 서비스 (30th SOPT SOPKATHON)
+
+##### __🏄🏻‍♂️ Photo Surfer(포토서퍼)__ - 저장한 사진을 태그와 알림으로 빠르게 찾을 수 있는 App (30th SOPT APPJAM)
+
+<h3 align="center"><b>💌 Social 💌 </b></h3>
+</br>
+
+<a href="mailto:coreminw@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:coreminw@gmail.com"/></a>
+<a href="https://www.instagram.com/m_in02"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/m_in02"/></a>
+
+<a href="https://velog.io/@coreminw"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@coreminw"/></a>
+
+
+__Contact: coreminw@naver.com__
